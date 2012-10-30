@@ -1,0 +1,30 @@
+@font-face {
+	font-family: Ventouse;
+	src: url(fonts/Ventouse.otf);
+}
+
+body {
+	background-color: black;
+}
+
+ul {
+	list-style-type: none;
+	width: 1230px;
+	margin: auto;
+	padding: 6px;
+}
+
+li {
+	background-color: #4b464d;
+	padding: 3px;
+	float: left;
+	height: 210px;
+	margin-right: 4px;
+	margin-bottom: 4px;
+	font-family: Ventouse;
+	text-shadow: 0 0 7px #faad37;
+	font-size:240px;
+	color:#faad37;
+	line-height: 210px;
+
+}
